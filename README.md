@@ -11,7 +11,7 @@
   </a>
 </div>
 <h1 align="center">
-  hey there
+  hey there, I'm Eden
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>     
 <div align="center">
