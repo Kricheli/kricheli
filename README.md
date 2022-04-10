@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/HvekzBaREHxlEwvlOS/giphy.gif" width="180"/><br /><br />
+  <img src="https://media.giphy.com/media/HvekzBaREHxlEwvlOS/giphy.gif" width="150"/><br /><br />
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/eden-kricheli-2677b4236/">
