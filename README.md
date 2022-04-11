@@ -16,10 +16,9 @@
 </h1>     
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 </div>
-<br />
-______________________________________________________________________________________________________________________________________________
+<br /
 <br />
 
 ### About Me :
