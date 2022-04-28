@@ -22,11 +22,11 @@
 <br /
 <br />
 
-### About Me :
+<!-- ### About Me :
 :round_pushpin:Currently studying to become a Full Stack Developer.<br /><br />
 :earth_africa:Living in Israel.
 <br /><br />
-
+ -->
 <!--- ### My stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kricheli&theme=neon-dark)](https://git.io/streak-stats)<br /><br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kricheli&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
