@@ -3,12 +3,13 @@
   <img src="https://media.giphy.com/media/HvekzBaREHxlEwvlOS/giphy.gif" width="150"/><br /><br />
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/eden-kricheli-2677b4236/">
+<!--   <a href="https://www.linkedin.com/in/eden-kricheli-2677b4236/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100000851521318">
   <img src="https://img.shields.io/badge/facebook-pink?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Badge"/>
-  </a>
+  </a>   -->
+
 </div>
 <h1 align="center">
   hey there, I'm Eden
